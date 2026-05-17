@@ -7,7 +7,7 @@ import {
   FiHome,
   FiTrendingUp,
   FiPieChart,
-  FiBot,
+  FiZapOff,
   FiSettings,
   FiBell,
   FiUser,
@@ -24,7 +24,7 @@ const navigation = [
   { name: 'Dashboard', href: '/dashboard', icon: FiHome },
   { name: 'Trading', href: '/dashboard/trading', icon: FiTrendingUp },
   { name: 'Portfolio', href: '/dashboard/portfolio', icon: FiPieChart },
-  { name: 'Bots', href: '/dashboard/bots', icon: FiBot },
+  { name: 'Bots', href: '/dashboard/bots', icon: FiZapOff },
   { name: 'Settings', href: '/dashboard/settings', icon: FiSettings },
 ]
 
